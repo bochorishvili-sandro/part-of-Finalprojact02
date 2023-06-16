@@ -1,0 +1,24 @@
+C:\Users\GIA\source\repos\Finalproject\Finalproject\bin\Debug\net6.0\Finalproject.exe
+C:\Users\GIA\source\repos\Finalproject\Finalproject\bin\Debug\net6.0\Finalproject.deps.json
+C:\Users\GIA\source\repos\Finalproject\Finalproject\bin\Debug\net6.0\Finalproject.runtimeconfig.json
+C:\Users\GIA\source\repos\Finalproject\Finalproject\bin\Debug\net6.0\Finalproject.dll
+C:\Users\GIA\source\repos\Finalproject\Finalproject\bin\Debug\net6.0\Finalproject.pdb
+C:\Users\GIA\source\repos\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.csproj.AssemblyReference.cache
+C:\Users\GIA\source\repos\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIA\source\repos\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.AssemblyInfoInputs.cache
+C:\Users\GIA\source\repos\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.AssemblyInfo.cs
+C:\Users\GIA\source\repos\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.csproj.CoreCompileInputs.cache
+C:\Users\GIA\source\repos\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.dll
+C:\Users\GIA\source\repos\Finalproject\Finalproject\obj\Debug\net6.0\refint\Finalproject.dll
+C:\Users\GIA\source\repos\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.pdb
+C:\Users\GIA\source\repos\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.genruntimeconfig.cache
+C:\Users\GIA\source\repos\Finalproject\Finalproject\obj\Debug\net6.0\ref\Finalproject.dll
+C:\Users\GIA\source\repos\Finalproject\Finalproject\bin\Debug\net6.0\Calculator.dll
+C:\Users\GIA\source\repos\Finalproject\Finalproject\bin\Debug\net6.0\Calculator.pdb
+C:\Users\GIA\source\repos\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.csproj.CopyComplete
+C:\Users\GIA\source\repos\Finalproject\Finalproject\bin\Debug\net6.0\GuessNumber and Hangman.dll
+C:\Users\GIA\source\repos\Finalproject\Finalproject\bin\Debug\net6.0\GuessNumber and Hangman.pdb
+C:\Users\GIA\source\repos\Finalproject\Finalproject\bin\Debug\net6.0\ATM.dll
+C:\Users\GIA\source\repos\Finalproject\Finalproject\bin\Debug\net6.0\Translator_and_GeorgianTranslator.dll
+C:\Users\GIA\source\repos\Finalproject\Finalproject\bin\Debug\net6.0\ATM.pdb
+C:\Users\GIA\source\repos\Finalproject\Finalproject\bin\Debug\net6.0\Translator_and_GeorgianTranslator.pdb
